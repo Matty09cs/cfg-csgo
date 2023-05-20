@@ -1,5 +1,5 @@
 # czconfig
-## CS:GO Config / czMarv
+## CS:GO Config / Matty09cs
 
 ### autoexec.cfg
 spouští se automaticky při zapnutí hry, odkazuje na **coolfig.cfg** - launch options: +exec autoexec.cfg
